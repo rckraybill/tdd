@@ -4,3 +4,4 @@ __pycache__
 *.pyc
 tests/__pycache__/
 tdd/__pycache__/
+geckodriver.log
