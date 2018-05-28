@@ -1,0 +1,10 @@
+Harry, we have a word for comments. We call them lies
+
+The ideal is to make your code so readable, to use such good variable names and function names, and to structure it so well that you no longer need any comments to explain what the code is doing. Just a few here and there to explay why.
+
+- Comments shouldn't explain what code is doing. The code should do that. Comments should explain why.
+
+They should explain the user story. (deep in the code, the user might be you.)
+
+
+
